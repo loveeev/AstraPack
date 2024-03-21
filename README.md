@@ -1,6 +1,6 @@
 # AstraPack
-Ресурспак разаработнная командой Zimoxy специально для ASTRAWORLD.
+Ресурспак разаработнная командой ASTRAWORLD.
 
-IP **mc.astraworld.pro**
+IP **mc.astraworld.su**
 
-Сайт : https://astraworld.pro
+Сайт : https://astraworld.su
